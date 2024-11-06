@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Hidden File
+MP_DATA/
+MP_DATA2/
+MP_DATA3/
+MP_DATA4/
+model_checkpoints/
+npy/
+*.npy
+*.h5
